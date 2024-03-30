@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Swarna Jang Maden
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React & TypeScript
 - 📫 How to reach me-
 -  Gmail: limbujungmaden@gmail.com
 
